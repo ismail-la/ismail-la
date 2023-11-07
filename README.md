@@ -13,10 +13,11 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=500&lines=👋+Hey%2C+I%E2%80%99m+Lahbari+ismail!💻" /></h1>
   <br />
+<!---
 <p align="center">
   <!-- Typing SVG by Lahbari ismail - https://github.com/ismail-la/readme-typing-svg -->
   <a href="https://github.com/ismail-la/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineering %20student%20;passionate%20about AI%20;1+%2B%20years%20of%20coding%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineering %20student%20;passionate%20about AI%20;1+%2B%20years%20of%20coding%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>  --->
 </p>
 	<p>Software Engineering Student @holbertonschool | @ALX_AFRICA.</p>
 	<br />
