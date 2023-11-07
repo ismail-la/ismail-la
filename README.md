@@ -1,14 +1,18 @@
-
+      
 <!---
 Lahbari ismail/Lahbari ismail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Software Engineering Student"></a>
+</div>
 
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Lahbari+ismail!💻" /></h1>
   <br />
-	<h1 align="center">Hi 👋, welcome to my profile!</h1>
 <p align="center">
   <!-- Typing SVG by Lahbari ismail - https://github.com/ismail-la/readme-typing-svg -->
   <a href="https://github.com/ismail-la/readme-typing-svg">
@@ -58,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,flask,nginx,js,html,css,jquery,mysql,mongodb,ai,git,github,githubactions,linux,vim,vim,emacs,powershell,bash,vscode,docker,ruby,blender,figma,wordpress,matlab,autocad,linkedin,discord"/>
+    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,flask,nginx,js,html,css,jquery,mysql,mongodb,ai,git,github,githubactions,linux,vim,emacs,powershell,bash,vscode,docker,ruby,blender,figma,wordpress,matlab,autocad,linkedin,discord"/>
   </a>
   </p>
   <p align="center">
@@ -84,3 +88,4 @@ You can click the Preview link to take a look at your changes.
  [![Ismail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismail-la&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/ismail-la/github-readme-activity-graph)
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
 [![wakatime](https://wakatime.com/badge/user/a0646488-d6a9-45df-9964-d4c90f30ea99.svg)](https://wakatime.com/@a0646488-d6a9-45df-9964-d4c90f30ea99)
+
