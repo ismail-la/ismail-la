@@ -1,9 +1,3 @@
-      if whatsapp in your_phone():
--              contact_info = message_me(+212684830200)
--          else :
--              contact_info = send_email(lahbariismail@gmail.com)
--          return contact_info    
--          print( 'You can reach me any time' )         
 
 <!---
 Lahbari ismail/Lahbari ismail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
