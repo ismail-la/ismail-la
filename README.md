@@ -89,3 +89,11 @@ You can click the Preview link to take a look at your changes.
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
 [![wakatime](https://wakatime.com/badge/user/a0646488-d6a9-45df-9964-d4c90f30ea99.svg)](https://wakatime.com/@a0646488-d6a9-45df-9964-d4c90f30ea99)
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
