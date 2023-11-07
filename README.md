@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,flask,nginx,js,html,css,jquery,mysql,mongodb,ai,git,github,githubactions,linux,vim,vim,emacs,powershell,bash,vscode,docker,ruby,SQL,figma,wordpress,matlab,autocad,linkedin,discord"/>
+    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,flask,nginx,js,html,css,jquery,mysql,mongodb,ai,git,github,githubactions,linux,vim,vim,emacs,powershell,bash,vscode,docker,ruby,blender,figma,wordpress,matlab,autocad,linkedin,discord"/>
   </a>
   </p>
   <p align="center">
